@@ -1,7 +1,6 @@
 import ContactForm from '../ContactForm/ContactForm';
 import ContactList from '../ContactList/ContactList';
 import SearchBox from '../SearchBox/SearchBox';
-import jsonData from '../ContactList/ContactList.json';
 import { useEffect, useState } from 'react';
 
 export default function App() {

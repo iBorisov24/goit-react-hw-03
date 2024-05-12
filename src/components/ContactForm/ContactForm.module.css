@@ -6,7 +6,10 @@
 	margin-bottom: 25px;
 }
 .btn {
+	width: 100px;
 	padding: 10px 5px;
+	background-color: aqua;
+	border-radius: 5px;
 }
 .input {
 	border-radius: 5px;
